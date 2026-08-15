@@ -35,4 +35,4 @@ while True:
     )
     reply = response.choices[0].message.content
 
-    print(f"Caramel AI:, {reply} \n")
+    print(f"Caramel AI:, {reply} \n") 
