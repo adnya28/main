@@ -1,0 +1,8 @@
+langchain>=0.3
+langchain-google-genai
+langchain-chroma
+chromadb>=0.5
+fastapi
+uvicorn
+python-dotenv
+pypdf
